@@ -2,5 +2,21 @@ body {
     text-align: center;
     font-family: "Tahoma";
     color: darkblue;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+#Container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #100;
+    margin: 0 auto;
+
+}
+
+#Container h1{
+    font-size: 22px;
 
 }
