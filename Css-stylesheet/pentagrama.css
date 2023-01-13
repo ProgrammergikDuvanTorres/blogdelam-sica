@@ -2,14 +2,14 @@ body {
     text-align: center;
     font-family: "Tahoma";
     color: darkblue;
-    font-size: 17px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
 #Container {
     width: 70%;
-    padding: 0.2em;
+    padding: 1em;
     text-align: left;
     border: 1px solid #100;
     margin: 0.97 auto;
@@ -37,6 +37,6 @@ body {
 }
 
 #Container h1{
-    font-size: 34px;
+    font-size: 20px;
 
 }
